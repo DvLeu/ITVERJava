@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package colacircular;
 
-/**
- *
- * @author PC
- */
+package colacircular;
 public class colarcircular {
     
     private int tamano;
@@ -16,9 +7,7 @@ public class colarcircular {
     private int posicionInicial;
     private int cola[];
     private int numeroDatos;
-    
-    
-    
+
     // Constructor para inicializar los valores de la cola
     
     public colarcircular(int tamano){
